@@ -66,3 +66,27 @@ margin-right: 20%;
     border-radius: 9px;
     box-shadow: 5px 5px 10px grey;
 }
+.numbers{
+    display: flex;
+    margin: 40px 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    justify-content: space-between;
+    padding: 30px 80px;
+}
+.list{
+    line-height:0.2;
+}
+.list h2{
+    font-weight: 900;
+}
+footer{
+background-color: black;
+color: aliceblue;
+height: 100px;
+padding:5px 0px;
+text-align: center;
+}
+footer p{
+    text-align: center;
+}
