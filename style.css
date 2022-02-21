@@ -83,10 +83,13 @@ margin-right: 20%;
 footer{
 background-color: black;
 color: aliceblue;
-height: 100px;
+height: 150px;
 padding:5px 0px;
 text-align: center;
 }
 footer p{
     text-align: center;
+}
+.icon img{
+    width: 3%;
 }
